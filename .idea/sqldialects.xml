@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/country/cldr/ar/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/ar/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/ar/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/cldr/ar/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/de/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/de/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/de/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/cldr/de/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/en/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/en/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/en/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/cldr/en/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/fr/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/fr/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/fr/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/cldr/fr/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/ru/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/ru/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/ru/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/cldr/ru/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/uz/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/uz/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/uz/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/cldr/uz/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/uz_Cyrl/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/uz_Cyrl/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/cldr/uz_Cyrl/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/uz_Latn/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/cldr/uz_Latn/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/cldr/uz_Latn/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/ar/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/ar/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/ar/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/icu/ar/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/de/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/de/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/de/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/icu/de/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/en/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/en/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/en/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/icu/en/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/fr/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/fr/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/fr/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/icu/fr/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/ru/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/ru/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/ru/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/icu/ru/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Arab/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Arab/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Arab/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Arab/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Cyrl/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Cyrl/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Cyrl/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Cyrl/country.sqlserver.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Latn/country.mysql.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Latn/country.postgresql.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Latn/country.sqlite.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/country/icu/uz_Latn/country.sqlserver.sql" dialect="TSQL" />
+  </component>
+</project>
+
