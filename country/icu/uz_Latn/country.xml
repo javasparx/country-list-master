@@ -1,51 +1,1039 @@
 <?xml version="1.0" encoding="utf-8"?>
 <countries>
     <country>
-        <iso>AF</iso>
-        <name>Afgʼoniston</name>
+        <iso>AC</iso>
+        <name>Vozneseniye oroli</name>
     </country>
     <country>
-        <iso>GB</iso>
-        <name>Birlashgan Qirollik</name>
+        <iso>AD</iso>
+        <name>Andorra</name>
+    </country>
+    <country>
+        <iso>AE</iso>
+        <name>Birlashgan Arab Amirliklari</name>
+    </country>
+    <country>
+        <iso>AF</iso>
+        <name>Afgʻoniston</name>
+    </country>
+    <country>
+        <iso>AG</iso>
+        <name>Antigua va Barbados</name>
+    </country>
+    <country>
+        <iso>AI</iso>
+        <name>Angila</name>
+    </country>
+    <country>
+        <iso>AL</iso>
+        <name>Albaniya</name>
+    </country>
+    <country>
+        <iso>AM</iso>
+        <name>Armaniston</name>
+    </country>
+    <country>
+        <iso>AO</iso>
+        <name>Angola</name>
+    </country>
+    <country>
+        <iso>AQ</iso>
+        <name>Antarktika</name>
+    </country>
+    <country>
+        <iso>AR</iso>
+        <name>Argentina</name>
+    </country>
+    <country>
+        <iso>AS</iso>
+        <name>Amerika Samoasi</name>
+    </country>
+    <country>
+        <iso>AT</iso>
+        <name>Avstriya</name>
+    </country>
+    <country>
+        <iso>AU</iso>
+        <name>Avstraliya</name>
+    </country>
+    <country>
+        <iso>AW</iso>
+        <name>Aruba</name>
+    </country>
+    <country>
+        <iso>AX</iso>
+        <name>Aland orollari</name>
+    </country>
+    <country>
+        <iso>AZ</iso>
+        <name>Ozarbayjon</name>
+    </country>
+    <country>
+        <iso>BA</iso>
+        <name>Bosniya va Gertsegovina</name>
+    </country>
+    <country>
+        <iso>BB</iso>
+        <name>Barbados</name>
+    </country>
+    <country>
+        <iso>BD</iso>
+        <name>Bangladesh</name>
+    </country>
+    <country>
+        <iso>BE</iso>
+        <name>Belgiya</name>
+    </country>
+    <country>
+        <iso>BF</iso>
+        <name>Burkina-Faso</name>
+    </country>
+    <country>
+        <iso>BG</iso>
+        <name>Bolgariya</name>
+    </country>
+    <country>
+        <iso>BH</iso>
+        <name>Bahrayn</name>
+    </country>
+    <country>
+        <iso>BI</iso>
+        <name>Burundi</name>
+    </country>
+    <country>
+        <iso>BJ</iso>
+        <name>Benin</name>
+    </country>
+    <country>
+        <iso>BL</iso>
+        <name>Avliyo Varfolomey</name>
+    </country>
+    <country>
+        <iso>BM</iso>
+        <name>Bermuda</name>
+    </country>
+    <country>
+        <iso>BN</iso>
+        <name>Bruney</name>
+    </country>
+    <country>
+        <iso>BO</iso>
+        <name>Boliviya</name>
+    </country>
+    <country>
+        <iso>BQ</iso>
+        <name>Karib Niderlandiyasi</name>
     </country>
     <country>
         <iso>BR</iso>
         <name>Braziliya</name>
     </country>
     <country>
-        <iso>FR</iso>
-        <name>Fransiya</name>
+        <iso>BS</iso>
+        <name>Bagama orollari</name>
     </country>
     <country>
-        <iso>IN</iso>
-        <name>Hindiston</name>
+        <iso>BT</iso>
+        <name>Butan</name>
     </country>
     <country>
-        <iso>IT</iso>
-        <name>Italiya</name>
+        <iso>BV</iso>
+        <name>Buvet oroli</name>
     </country>
     <country>
-        <iso>DE</iso>
-        <name>Olmoniya</name>
+        <iso>BW</iso>
+        <name>Botsvanna</name>
     </country>
     <country>
-        <iso>UZ</iso>
-        <name>Oʼzbekiston</name>
+        <iso>BY</iso>
+        <name>Belorusiya</name>
     </country>
     <country>
-        <iso>US</iso>
-        <name>Qoʼshma Shtatlar</name>
+        <iso>BZ</iso>
+        <name>Beliz</name>
     </country>
     <country>
-        <iso>RU</iso>
-        <name>Rossiya</name>
+        <iso>CA</iso>
+        <name>Kanada</name>
+    </country>
+    <country>
+        <iso>CC</iso>
+        <name>Kokos (Kiling) orollari</name>
+    </country>
+    <country>
+        <iso>CD</iso>
+        <name>Kongo-Kinshasa</name>
+    </country>
+    <country>
+        <iso>CF</iso>
+        <name>Markaziy Afrika Respublikasi</name>
+    </country>
+    <country>
+        <iso>CG</iso>
+        <name>Kongo Brazzavil</name>
+    </country>
+    <country>
+        <iso>CH</iso>
+        <name>Shveysariya</name>
+    </country>
+    <country>
+        <iso>CI</iso>
+        <name>Kot-d-Ivuar</name>
+    </country>
+    <country>
+        <iso>CK</iso>
+        <name>Kuk orollari</name>
+    </country>
+    <country>
+        <iso>CL</iso>
+        <name>Chili</name>
+    </country>
+    <country>
+        <iso>CM</iso>
+        <name>Kamerun</name>
     </country>
     <country>
         <iso>CN</iso>
         <name>Xitoy</name>
     </country>
     <country>
+        <iso>CO</iso>
+        <name>Kolumbiya</name>
+    </country>
+    <country>
+        <iso>CP</iso>
+        <name>Klipperton oroli</name>
+    </country>
+    <country>
+        <iso>CR</iso>
+        <name>Kosta-Rika</name>
+    </country>
+    <country>
+        <iso>CU</iso>
+        <name>Kuba</name>
+    </country>
+    <country>
+        <iso>CV</iso>
+        <name>Kabo-Verde</name>
+    </country>
+    <country>
+        <iso>CW</iso>
+        <name>Kurasao</name>
+    </country>
+    <country>
+        <iso>CX</iso>
+        <name>Rojdestvo oroli</name>
+    </country>
+    <country>
+        <iso>CY</iso>
+        <name>Kipr</name>
+    </country>
+    <country>
+        <iso>CZ</iso>
+        <name>Chexiya Respublikasi</name>
+    </country>
+    <country>
+        <iso>DE</iso>
+        <name>Germaniya</name>
+    </country>
+    <country>
+        <iso>DG</iso>
+        <name>Diyego Garsiya</name>
+    </country>
+    <country>
+        <iso>DJ</iso>
+        <name>Djibuti</name>
+    </country>
+    <country>
+        <iso>DK</iso>
+        <name>Daniya</name>
+    </country>
+    <country>
+        <iso>DM</iso>
+        <name>Dominika</name>
+    </country>
+    <country>
+        <iso>DO</iso>
+        <name>Dominikan Respublikasi</name>
+    </country>
+    <country>
+        <iso>DZ</iso>
+        <name>Jazoir</name>
+    </country>
+    <country>
+        <iso>EA</iso>
+        <name>Seyta va Melilla</name>
+    </country>
+    <country>
+        <iso>EC</iso>
+        <name>Ekvador</name>
+    </country>
+    <country>
+        <iso>EE</iso>
+        <name>Estoniya</name>
+    </country>
+    <country>
+        <iso>EG</iso>
+        <name>Misr</name>
+    </country>
+    <country>
+        <iso>EH</iso>
+        <name>Gʻarbiy Sahroi Kabir</name>
+    </country>
+    <country>
+        <iso>ER</iso>
+        <name>Eritreya</name>
+    </country>
+    <country>
+        <iso>ES</iso>
+        <name>Ispaniya</name>
+    </country>
+    <country>
+        <iso>ET</iso>
+        <name>Efiopiya</name>
+    </country>
+    <country>
+        <iso>EU</iso>
+        <name>Yevropa Ittifoqi</name>
+    </country>
+    <country>
+        <iso>FI</iso>
+        <name>Finlyandiya</name>
+    </country>
+    <country>
+        <iso>FJ</iso>
+        <name>Fiji orollari</name>
+    </country>
+    <country>
+        <iso>FK</iso>
+        <name>Folklend orollari</name>
+    </country>
+    <country>
+        <iso>FM</iso>
+        <name>Mikroneziya</name>
+    </country>
+    <country>
+        <iso>FO</iso>
+        <name>Farer orollari</name>
+    </country>
+    <country>
+        <iso>FR</iso>
+        <name>Fransiya</name>
+    </country>
+    <country>
+        <iso>GA</iso>
+        <name>Gabon</name>
+    </country>
+    <country>
+        <iso>GB</iso>
+        <name>Birlashgan Qirollik</name>
+    </country>
+    <country>
+        <iso>GD</iso>
+        <name>Grenada</name>
+    </country>
+    <country>
+        <iso>GE</iso>
+        <name>Gruziya</name>
+    </country>
+    <country>
+        <iso>GF</iso>
+        <name>Frantsuz Gvianasi</name>
+    </country>
+    <country>
+        <iso>GG</iso>
+        <name>Gernsi</name>
+    </country>
+    <country>
+        <iso>GH</iso>
+        <name>Gana</name>
+    </country>
+    <country>
+        <iso>GI</iso>
+        <name>Gibraltar</name>
+    </country>
+    <country>
+        <iso>GL</iso>
+        <name>Grenlandiya</name>
+    </country>
+    <country>
+        <iso>GM</iso>
+        <name>Gambiya</name>
+    </country>
+    <country>
+        <iso>GN</iso>
+        <name>Gvineya</name>
+    </country>
+    <country>
+        <iso>GP</iso>
+        <name>Gvadelupe</name>
+    </country>
+    <country>
+        <iso>GQ</iso>
+        <name>Ekvatorial Gvineya</name>
+    </country>
+    <country>
+        <iso>GR</iso>
+        <name>Gretsiya</name>
+    </country>
+    <country>
+        <iso>GS</iso>
+        <name>Janubiy Djordjiya va Janubiy Sendvich orollari</name>
+    </country>
+    <country>
+        <iso>GT</iso>
+        <name>Gvatemala</name>
+    </country>
+    <country>
+        <iso>GU</iso>
+        <name>Guam</name>
+    </country>
+    <country>
+        <iso>GW</iso>
+        <name>Gvineya-Bisau</name>
+    </country>
+    <country>
+        <iso>GY</iso>
+        <name>Gayana</name>
+    </country>
+    <country>
+        <iso>HK</iso>
+        <name>Gonkong Xitoy MMH</name>
+    </country>
+    <country>
+        <iso>HM</iso>
+        <name>Gerd oroli va MakDonald orollari</name>
+    </country>
+    <country>
+        <iso>HN</iso>
+        <name>Gonduras</name>
+    </country>
+    <country>
+        <iso>HR</iso>
+        <name>Xorvatiya</name>
+    </country>
+    <country>
+        <iso>HT</iso>
+        <name>Gaiti</name>
+    </country>
+    <country>
+        <iso>HU</iso>
+        <name>Vengriya</name>
+    </country>
+    <country>
+        <iso>IC</iso>
+        <name>Kanar orollari</name>
+    </country>
+    <country>
+        <iso>ID</iso>
+        <name>Indoneziya</name>
+    </country>
+    <country>
+        <iso>IE</iso>
+        <name>Irlandiya</name>
+    </country>
+    <country>
+        <iso>IL</iso>
+        <name>Isroil</name>
+    </country>
+    <country>
+        <iso>IM</iso>
+        <name>Men oroli</name>
+    </country>
+    <country>
+        <iso>IN</iso>
+        <name>Hindiston</name>
+    </country>
+    <country>
+        <iso>IO</iso>
+        <name>Britaniya Hind okeani hududi</name>
+    </country>
+    <country>
+        <iso>IQ</iso>
+        <name>Iroq</name>
+    </country>
+    <country>
+        <iso>IR</iso>
+        <name>Eron</name>
+    </country>
+    <country>
+        <iso>IS</iso>
+        <name>Islandiya</name>
+    </country>
+    <country>
+        <iso>IT</iso>
+        <name>Italiya</name>
+    </country>
+    <country>
+        <iso>JE</iso>
+        <name>Djersi</name>
+    </country>
+    <country>
+        <iso>JM</iso>
+        <name>Yamayka</name>
+    </country>
+    <country>
+        <iso>JO</iso>
+        <name>Iordaniya</name>
+    </country>
+    <country>
         <iso>JP</iso>
         <name>Yaponiya</name>
+    </country>
+    <country>
+        <iso>KE</iso>
+        <name>Keniya</name>
+    </country>
+    <country>
+        <iso>KG</iso>
+        <name>Qirgʻiziston</name>
+    </country>
+    <country>
+        <iso>KH</iso>
+        <name>Kambodja</name>
+    </country>
+    <country>
+        <iso>KI</iso>
+        <name>Kiribati</name>
+    </country>
+    <country>
+        <iso>KM</iso>
+        <name>Komor orollari</name>
+    </country>
+    <country>
+        <iso>KN</iso>
+        <name>Sent-Kits va Nevis</name>
+    </country>
+    <country>
+        <iso>KP</iso>
+        <name>Shimoliy Koreya</name>
+    </country>
+    <country>
+        <iso>KR</iso>
+        <name>Janubiy Koreya</name>
+    </country>
+    <country>
+        <iso>KW</iso>
+        <name>Quveyt</name>
+    </country>
+    <country>
+        <iso>KY</iso>
+        <name>Kayman orollari</name>
+    </country>
+    <country>
+        <iso>KZ</iso>
+        <name>Qozogʻiston</name>
+    </country>
+    <country>
+        <iso>LA</iso>
+        <name>Laos</name>
+    </country>
+    <country>
+        <iso>LB</iso>
+        <name>Livan</name>
+    </country>
+    <country>
+        <iso>LC</iso>
+        <name>Sent-Lyusiya</name>
+    </country>
+    <country>
+        <iso>LI</iso>
+        <name>Lixtenshteyn</name>
+    </country>
+    <country>
+        <iso>LK</iso>
+        <name>Shri-Lanka</name>
+    </country>
+    <country>
+        <iso>LR</iso>
+        <name>Liberiya</name>
+    </country>
+    <country>
+        <iso>LS</iso>
+        <name>Lesoto</name>
+    </country>
+    <country>
+        <iso>LT</iso>
+        <name>Litva</name>
+    </country>
+    <country>
+        <iso>LU</iso>
+        <name>Lyuksemburg</name>
+    </country>
+    <country>
+        <iso>LV</iso>
+        <name>Latviya</name>
+    </country>
+    <country>
+        <iso>LY</iso>
+        <name>Liviya</name>
+    </country>
+    <country>
+        <iso>MA</iso>
+        <name>Marokash</name>
+    </country>
+    <country>
+        <iso>MC</iso>
+        <name>Monako</name>
+    </country>
+    <country>
+        <iso>MD</iso>
+        <name>Moldova</name>
+    </country>
+    <country>
+        <iso>ME</iso>
+        <name>Chernogoriya</name>
+    </country>
+    <country>
+        <iso>MF</iso>
+        <name>Sent-Martin</name>
+    </country>
+    <country>
+        <iso>MG</iso>
+        <name>Madagaskar</name>
+    </country>
+    <country>
+        <iso>MH</iso>
+        <name>Marshal orollari</name>
+    </country>
+    <country>
+        <iso>MK</iso>
+        <name>Makedoniya</name>
+    </country>
+    <country>
+        <iso>ML</iso>
+        <name>Mali</name>
+    </country>
+    <country>
+        <iso>MM</iso>
+        <name>Myanma (Birma)</name>
+    </country>
+    <country>
+        <iso>MN</iso>
+        <name>Mo‘g‘uliston</name>
+    </country>
+    <country>
+        <iso>MO</iso>
+        <name>Makao Xitoy MMH</name>
+    </country>
+    <country>
+        <iso>MP</iso>
+        <name>Shimoliy Marianna orollari</name>
+    </country>
+    <country>
+        <iso>MQ</iso>
+        <name>Martinika</name>
+    </country>
+    <country>
+        <iso>MR</iso>
+        <name>Mavritaniya</name>
+    </country>
+    <country>
+        <iso>MS</iso>
+        <name>Montserrat</name>
+    </country>
+    <country>
+        <iso>MT</iso>
+        <name>Malta</name>
+    </country>
+    <country>
+        <iso>MU</iso>
+        <name>Mavrikiy</name>
+    </country>
+    <country>
+        <iso>MV</iso>
+        <name>Maldiv orollari</name>
+    </country>
+    <country>
+        <iso>MW</iso>
+        <name>Malavi</name>
+    </country>
+    <country>
+        <iso>MX</iso>
+        <name>Meksika</name>
+    </country>
+    <country>
+        <iso>MY</iso>
+        <name>Malayziya</name>
+    </country>
+    <country>
+        <iso>MZ</iso>
+        <name>Mozambik</name>
+    </country>
+    <country>
+        <iso>NA</iso>
+        <name>Namibiya</name>
+    </country>
+    <country>
+        <iso>NC</iso>
+        <name>Yangi Kaledoniya</name>
+    </country>
+    <country>
+        <iso>NE</iso>
+        <name>Niger</name>
+    </country>
+    <country>
+        <iso>NF</iso>
+        <name>Norfolk orollari</name>
+    </country>
+    <country>
+        <iso>NG</iso>
+        <name>Nigeriya</name>
+    </country>
+    <country>
+        <iso>NI</iso>
+        <name>Nikaragua</name>
+    </country>
+    <country>
+        <iso>NL</iso>
+        <name>Niderlandiya</name>
+    </country>
+    <country>
+        <iso>NO</iso>
+        <name>Norvegiya</name>
+    </country>
+    <country>
+        <iso>NP</iso>
+        <name>Nepal</name>
+    </country>
+    <country>
+        <iso>NR</iso>
+        <name>Nauru</name>
+    </country>
+    <country>
+        <iso>NU</iso>
+        <name>Niuye</name>
+    </country>
+    <country>
+        <iso>NZ</iso>
+        <name>Yangi Zelandiya</name>
+    </country>
+    <country>
+        <iso>OM</iso>
+        <name>Omon</name>
+    </country>
+    <country>
+        <iso>PA</iso>
+        <name>Panama</name>
+    </country>
+    <country>
+        <iso>PE</iso>
+        <name>Peru</name>
+    </country>
+    <country>
+        <iso>PF</iso>
+        <name>Frantsuz Polineziyasi</name>
+    </country>
+    <country>
+        <iso>PG</iso>
+        <name>Papua Yangi Gvineya</name>
+    </country>
+    <country>
+        <iso>PH</iso>
+        <name>Filippin</name>
+    </country>
+    <country>
+        <iso>PK</iso>
+        <name>Pokiston</name>
+    </country>
+    <country>
+        <iso>PL</iso>
+        <name>Polsha</name>
+    </country>
+    <country>
+        <iso>PM</iso>
+        <name>Sent-Pyer va Mikelon</name>
+    </country>
+    <country>
+        <iso>PN</iso>
+        <name>Pitkarin orollari</name>
+    </country>
+    <country>
+        <iso>PR</iso>
+        <name>Puerto-Riko</name>
+    </country>
+    <country>
+        <iso>PS</iso>
+        <name>Falastin hududi</name>
+    </country>
+    <country>
+        <iso>PT</iso>
+        <name>Portugaliya</name>
+    </country>
+    <country>
+        <iso>PW</iso>
+        <name>Palau</name>
+    </country>
+    <country>
+        <iso>PY</iso>
+        <name>Paragvay</name>
+    </country>
+    <country>
+        <iso>QA</iso>
+        <name>Qatar</name>
+    </country>
+    <country>
+        <iso>QO</iso>
+        <name>Yondosh Okeaniya</name>
+    </country>
+    <country>
+        <iso>RE</iso>
+        <name>Reyunon</name>
+    </country>
+    <country>
+        <iso>RO</iso>
+        <name>Ruminiya</name>
+    </country>
+    <country>
+        <iso>RS</iso>
+        <name>Serbiya</name>
+    </country>
+    <country>
+        <iso>RU</iso>
+        <name>Rossiya</name>
+    </country>
+    <country>
+        <iso>RW</iso>
+        <name>Ruanda</name>
+    </country>
+    <country>
+        <iso>SA</iso>
+        <name>Saudiya Arabistoni</name>
+    </country>
+    <country>
+        <iso>SB</iso>
+        <name>Solomon orollari</name>
+    </country>
+    <country>
+        <iso>SC</iso>
+        <name>Seyshel orollari</name>
+    </country>
+    <country>
+        <iso>SD</iso>
+        <name>Sudan</name>
+    </country>
+    <country>
+        <iso>SE</iso>
+        <name>Shvetsiya</name>
+    </country>
+    <country>
+        <iso>SG</iso>
+        <name>Singapur</name>
+    </country>
+    <country>
+        <iso>SH</iso>
+        <name>Muqaddas Yelena orollari</name>
+    </country>
+    <country>
+        <iso>SI</iso>
+        <name>Sloveniya</name>
+    </country>
+    <country>
+        <iso>SJ</iso>
+        <name>Savlbard va Jan Mayen</name>
+    </country>
+    <country>
+        <iso>SK</iso>
+        <name>Slovakiya</name>
+    </country>
+    <country>
+        <iso>SL</iso>
+        <name>Syerra-Leone</name>
+    </country>
+    <country>
+        <iso>SM</iso>
+        <name>San-Marino</name>
+    </country>
+    <country>
+        <iso>SN</iso>
+        <name>Senegal</name>
+    </country>
+    <country>
+        <iso>SO</iso>
+        <name>Somali</name>
+    </country>
+    <country>
+        <iso>SR</iso>
+        <name>Surinam</name>
+    </country>
+    <country>
+        <iso>SS</iso>
+        <name>Janubiy Sudan</name>
+    </country>
+    <country>
+        <iso>ST</iso>
+        <name>San-Tome va Prinsipi</name>
+    </country>
+    <country>
+        <iso>SV</iso>
+        <name>Salvador</name>
+    </country>
+    <country>
+        <iso>SX</iso>
+        <name>Sint Martin</name>
+    </country>
+    <country>
+        <iso>SY</iso>
+        <name>Suriya</name>
+    </country>
+    <country>
+        <iso>SZ</iso>
+        <name>Svazilend</name>
+    </country>
+    <country>
+        <iso>TA</iso>
+        <name>Tristan de Kuna</name>
+    </country>
+    <country>
+        <iso>TC</iso>
+        <name>Turks va Kaykos orollari</name>
+    </country>
+    <country>
+        <iso>TD</iso>
+        <name>Chad</name>
+    </country>
+    <country>
+        <iso>TF</iso>
+        <name>Frantsiya janubiy xududlari</name>
+    </country>
+    <country>
+        <iso>TG</iso>
+        <name>Togo</name>
+    </country>
+    <country>
+        <iso>TH</iso>
+        <name>Tayland</name>
+    </country>
+    <country>
+        <iso>TJ</iso>
+        <name>Tojikiston</name>
+    </country>
+    <country>
+        <iso>TK</iso>
+        <name>Tokelau</name>
+    </country>
+    <country>
+        <iso>TL</iso>
+        <name>Sharqiy-Timor</name>
+    </country>
+    <country>
+        <iso>TM</iso>
+        <name>Turkmaniston</name>
+    </country>
+    <country>
+        <iso>TN</iso>
+        <name>Tunis</name>
+    </country>
+    <country>
+        <iso>TO</iso>
+        <name>Tonga</name>
+    </country>
+    <country>
+        <iso>TR</iso>
+        <name>Turkiya</name>
+    </country>
+    <country>
+        <iso>TT</iso>
+        <name>Trinidad va Tobago</name>
+    </country>
+    <country>
+        <iso>TV</iso>
+        <name>Tuvalu</name>
+    </country>
+    <country>
+        <iso>TW</iso>
+        <name>Tayvan</name>
+    </country>
+    <country>
+        <iso>TZ</iso>
+        <name>Tanzaniya</name>
+    </country>
+    <country>
+        <iso>UA</iso>
+        <name>Ukraina</name>
+    </country>
+    <country>
+        <iso>UG</iso>
+        <name>Uganda</name>
+    </country>
+    <country>
+        <iso>UM</iso>
+        <name>AQSH yondosh orollari</name>
+    </country>
+    <country>
+        <iso>US</iso>
+        <name>Qoʻshma Shtatlar</name>
+    </country>
+    <country>
+        <iso>UY</iso>
+        <name>Urugvay</name>
+    </country>
+    <country>
+        <iso>UZ</iso>
+        <name>Oʻzbekiston</name>
+    </country>
+    <country>
+        <iso>VA</iso>
+        <name>Vatikan</name>
+    </country>
+    <country>
+        <iso>VC</iso>
+        <name>Sent-Vinsent va Grenadin</name>
+    </country>
+    <country>
+        <iso>VE</iso>
+        <name>Venesuela</name>
+    </country>
+    <country>
+        <iso>VG</iso>
+        <name>Britaniya Virdjiniya orollari</name>
+    </country>
+    <country>
+        <iso>VI</iso>
+        <name>AQSH Virdjiniya orollari</name>
+    </country>
+    <country>
+        <iso>VN</iso>
+        <name>Vyetnam</name>
+    </country>
+    <country>
+        <iso>VU</iso>
+        <name>Vanuatu</name>
+    </country>
+    <country>
+        <iso>WF</iso>
+        <name>Uellis va Futuna</name>
+    </country>
+    <country>
+        <iso>WS</iso>
+        <name>Samoa</name>
+    </country>
+    <country>
+        <iso>XK</iso>
+        <name>Kosovo</name>
+    </country>
+    <country>
+        <iso>YE</iso>
+        <name>Yaman</name>
+    </country>
+    <country>
+        <iso>YT</iso>
+        <name>Mayotta</name>
+    </country>
+    <country>
+        <iso>ZA</iso>
+        <name>Janubi-Afrika</name>
+    </country>
+    <country>
+        <iso>ZM</iso>
+        <name>Zambiya</name>
+    </country>
+    <country>
+        <iso>ZW</iso>
+        <name>Zimbabve</name>
+    </country>
+    <country>
+        <iso>ZZ</iso>
+        <name>Nomaʼlum hudud</name>
     </country>
 </countries>
