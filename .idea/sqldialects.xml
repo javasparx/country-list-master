@@ -55,10 +55,6 @@
     <file url="file://$PROJECT_DIR$/country/icu/uz/country.postgresql.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/country/icu/uz/country.sqlite.sql" dialect="SQLite" />
     <file url="file://$PROJECT_DIR$/country/icu/uz/country.sqlserver.sql" dialect="TSQL" />
-    <file url="file://$PROJECT_DIR$/country/icu/uz_Arab/country.mysql.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/country/icu/uz_Arab/country.postgresql.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/country/icu/uz_Arab/country.sqlite.sql" dialect="SQLite" />
-    <file url="file://$PROJECT_DIR$/country/icu/uz_Arab/country.sqlserver.sql" dialect="TSQL" />
     <file url="file://$PROJECT_DIR$/country/icu/uz_Cyrl/country.mysql.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/country/icu/uz_Cyrl/country.postgresql.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/country/icu/uz_Cyrl/country.sqlite.sql" dialect="SQLite" />
